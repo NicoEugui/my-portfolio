@@ -72,7 +72,7 @@ def info_detail(info: Info) -> rx.Component:
             rx.cond(
                 info.certificate != "",
                 icon_button(
-                    "shield-check",
+                    "book-check",
                     info.certificate,
                     solid=True
                 )

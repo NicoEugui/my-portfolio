@@ -1,108 +1,126 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Nicolas Eugui | Porfolio",
+    "description": "Backend Developer specializing in crafting efficient and scalable solutions for web applications. Explore my projects and reach out to collaborate on exciting development challenges.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Nicolas Eugui Bentancor",
+    "skill": "Backend Developer",
+    "location": "Uruguay",
     "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "email": "nicolas03.eugui@gmail.com",
+        "cv": "/data/CV_NICOLAS_EUGUI_BENTANCOR.pdf",
+        "github": "https://github.com/NicoEugui",
+        "likedin": "https://linkedin.com/in/nicoeugui"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Backend Developer specializing in creating efficient and scalable systems. Experienced in web development, including Front-End and Full-Stack projects. Committed to technical excellence and continuous improvement.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-spring-original",
+            "name": "Spring"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-hibernate-plain",
+            "name": "Hibernate"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-flask-original",
+            "name": "Flask"
+        },
+        {
+            "icon": "devicon-sqlalchemy-plain",
+            "name": "SQLAlchemy"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-oracle-original",
+            "name": "Oracle SQL"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-react-original",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "",
+            "title": "",
+            "subtitle": "",
+            "description": "",
+            "date": ""
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "aperture",
+            "title": "Snapify - Full-Stack Web Development Project",
+            "subtitle": "Platform for Photography Contests",
+            "description": "Snapify is a project where I primarily worked on the backend development aspect alongside a team of three developers. My tasks involved creating strong server-side functions and managing databases efficiently. As a result, we built a user-friendly platform allowing user registration, photo uploads, contest participation, and customization for photography enthusiasts.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
+                    "icon": "devicon-flask-original",
+                    "name": "Flask"
+                },
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
+                },
+                {
+                    "icon": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "data/img/projects/snapify.webp",
+            "url": "https://snapify.nicolaseugui.com/",
+            "github": "https://github.com/NicoEugui/Snapify_Final_Project"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "graduation-cap",
+            "title": "Bachelor's Degree in Information Technology",
+            "subtitle": "Universidad Tecnologica del Uruguay",
+            "description": "The Bachelor's Degree in Information Technology is a comprehensive program focusing on software development, testing, and IT infrastructure.",
+            "date": "2022 - 2025",
+            "certificate": "https://utec.edu.uy/en/education/undergraduate-study/bachelor-s-degree-in-information-technology/"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Full-Stack Software Developer Bootcamp",
+            "subtitle": "4Geeks Academy",
+            "description": "Development of applications using JavaScript with React and Python with Flask and SQLAlchemy",
+            "date": "2023 - 2024",
+            "certificate": "https://certificate.4geeks.com/c9a5cb78c467d0fd4f6c3f5ecd7cff0d7f21803a?lang=en"
         }
     ],
     "extras": [
