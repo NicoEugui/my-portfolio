@@ -1,4 +1,4 @@
-# Portfolio Personal (Fork de MoureDev)
+# Portfolio Personal
 
 Este portfolio personal es un fork del proyecto original desarrollado por [MoureDev](https://github.com/MoureDev). Se ha realizado como parte de un proceso de personalización y adaptación a mis propias necesidades y preferencias.
 
