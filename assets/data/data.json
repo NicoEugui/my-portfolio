@@ -88,6 +88,10 @@
                     "name": "Flask"
                 },
                 {
+                    "icon": "devicon-sqlalchemy-plain",
+                    "name": "SQLAlchemy"
+                },
+                {
                     "icon": "devicon-postgresql-plain",
                     "name": "PostgreSQL"
                 },
