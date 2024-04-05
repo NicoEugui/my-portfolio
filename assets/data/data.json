@@ -104,7 +104,7 @@
                     "name": "Bootstrap"
                 }
             ],
-            "image": "data/img/projects/snapify.webp",
+            "image": "data/img/projects/snapify_logo.webp",
             "url": "https://snapify.nicolaseugui.com/",
             "github": "https://github.com/NicoEugui/Snapify_Final_Project"
         }
