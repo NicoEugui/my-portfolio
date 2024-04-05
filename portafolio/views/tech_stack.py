@@ -11,6 +11,7 @@ def tech_stack(technologies: list[Technology]) -> rx.Component:
             *[
                 rx.badge(
                     rx.box(
+                        hover=True,
                         class_name=technology.icon,
                         font_size="24px"
                     ),
