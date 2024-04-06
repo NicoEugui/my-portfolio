@@ -138,6 +138,21 @@
             "image": "data/img/projects/starwars_blog.webp",
             "url": "https://starwars-blog.nicolaseugui.com",
             "github": "https://github.com/NicoEugui/starwars-blog-reading-list"
+        },
+        {
+            "icon": "tower-control",
+            "title": "ATC Discord Bot for LiveATC Streams",
+            "subtitle": "Discord Server with Real-Time ATC Audio Streams",
+            "description": "Discord bot designed to enrich your server with real-time air traffic control (ATC) audio streams from LiveATC.net. With seamless integration, users can listen to live communications between pilots and air traffic controllers directly within Discord voice channels. Developed with Python and Discord.py, this project showcases my expertise in bot development, API integration, and user experience design. Discover how this unique bot enhances communication and immersion for aviation enthusiasts and communities worldwide.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+
+            ],
+            "image": "data/img/projects/atc_bot.webp",
+            "github": "https://github.com/NicoEugui/atc-discord-bot"
         }
     ],
     "training": [
