@@ -107,12 +107,43 @@
             "image": "data/img/projects/snapify_logo.webp",
             "url": "https://snapify.nicolaseugui.com/",
             "github": "https://github.com/NicoEugui/Snapify_Final_Project"
+        },
+        {
+            "icon": "rocket",
+            "title": "StarWars Blog Reading List",
+            "subtitle": "StarWars API Integration and Efficient State Management",
+            "description": "Project focused on frontend development, utilizing React to consume an external Star Wars API. Implemented two primary views: a list view and an individual item view (e.g., spaceships). Ensured seamless integration with the API, enabling efficient data retrieval and display within the application. Additionally, leveraged the Context API for effective state management following the Model-View-Controller (MVC) design pattern, facilitating storage, visualization, and user interactions.",
+            "technologies": [
+                {
+                    "icon": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS3"
+                }
+            ],
+            "image": "data/img/projects/starwars_blog.webp",
+            "url": "https://starwars-blog.nicolaseugui.com",
+            "github": "https://github.com/NicoEugui/starwars-blog-reading-list"
         }
     ],
     "training": [
         {
             "icon": "graduation-cap",
-            "title": "Bachelor's Degree in Information Technology",
+            "title": "Bachelor of Science in Information Technology",
             "subtitle": "Universidad Tecnologica del Uruguay",
             "description": "The Bachelor's Degree in Information Technology is a comprehensive program focusing on software development, testing, and IT infrastructure.",
             "date": "2022 - 2025",
