@@ -175,22 +175,35 @@
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "image": "data/img/certifications/introduction_to_cybersecurity.png",
+            "title": "Introduction to Cybersecurity",
+            "url": "https://www.credly.com/badges/c2ec9dd2-d48c-4731-b82c-e881691dd97a/linked_in_profile",
+            "description": "CISCO"
         },
         {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "image": "data/img/certifications/cybersecurity_essentials.png",
+            "title": "Cybersecurity Essentials",
+            "url": "https://www.credly.com/badges/a688b663-2337-4b23-8826-7908a1c237e4/linked_in_profile",
+            "description": "CISCO"
         },
         {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "image": "data/img/certifications/it_essentials.png",
+            "title": "IT Essentials",
+            "url": "https://www.credly.com/badges/2108a8d9-293a-4616-aea5-3ccd48959d7f/linked_in_profile",
+            "description": "CISCO"
+        },
+        {
+            "image": "data/img/certifications/ccna_enterprise.png",
+            "title": "CCNA: Enterprise Networking, Security, and Automation",
+            "url": "https://www.credly.com/badges/b0a73bd7-db9a-45ae-9f17-9525d3d95509/linked_in_profile",
+            "description": "CISCO"
+        },
+        {
+            "image": "data/img/certifications/python_for_data_science.png",
+            "title": "Python Basics for Data Science",
+            "url": "https://courses.edx.org/certificates/48569eff6f37425e9eb44176b0b55fca",
+            "description": "EdX"
         }
+
     ]
 }
