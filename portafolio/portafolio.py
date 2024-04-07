@@ -40,7 +40,8 @@ app = rx.App(
     theme=rx.theme(
         appearance="dark",
         accent_color="indigo",
-        radius="full"
+        radius="full",
+        scaling="90%"
     )
 )
 
