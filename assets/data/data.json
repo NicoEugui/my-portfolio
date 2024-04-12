@@ -203,6 +203,12 @@
             "title": "Python Basics for Data Science",
             "url": "https://courses.edx.org/certificates/48569eff6f37425e9eb44176b0b55fca",
             "description": "EdX"
+        },
+        {
+            "image": "data/img/certifications/scrum_foundation_professional.png",
+            "title": "Scrum Foundation Proffesional",
+            "url": "https://www.credly.com/badges/abdccf9f-0cbe-4c27-b8d4-a74fa8e3ed4d",
+            "description": "CertiProf"
         }
 
     ]
